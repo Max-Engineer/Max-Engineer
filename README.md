@@ -49,7 +49,7 @@ Spring Boot • REST APIs
 
 **Cloud & DevOps**
 
-Azure • Docker • Git
+AWS • Azure • Docker • Git
 
 **Other**
 
