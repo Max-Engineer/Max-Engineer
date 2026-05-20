@@ -41,11 +41,11 @@ Features:
 
 **Languages**
 
-Java • Python • SQL
+Java • C# • SQL
 
 **Backend**
 
-Spring Boot • REST APIs
+Spring Boot • ASP.NET Core  • REST APIs
 
 **Cloud & DevOps**
 
@@ -60,9 +60,10 @@ Linux • Networking • Security
 ## 🌱 Currently Learning
 
 - Spring Security
-- Docker
-- Cloud deployment
-- AI integration into software systems
+- Docker & containerization
+- AWS deployment
+- C#/.NET ecosystem
+- AI integration into backend systems
 
 ---
 
