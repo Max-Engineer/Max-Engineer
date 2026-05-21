@@ -59,10 +59,10 @@ Linux • Networking • Security
 
 ## 🌱 Currently Learning
 
-- Spring Security
-- Docker & containerization
+- Spring Boot
+- Docker & Containerization
 - AWS deployment
-- C#/.NET ecosystem
+- C# / .NET ecosystem
 - AI integration into backend systems
 
 ---
