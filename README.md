@@ -53,7 +53,7 @@ AWS • Azure • Docker • Git
 
 **Other**
 
-Linux • Networking • Security
+Linux • Networking • Security • AI
 
 ---
 
