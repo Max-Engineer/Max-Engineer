@@ -1,4 +1,4 @@
-# Hi, I'm Maksym 👋
+# Hi, I'm Max 👋
 
 Software Development student at ATU Galway with a background in networking, cybersecurity, and cloud technologies.
 
