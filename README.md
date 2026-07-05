@@ -70,4 +70,4 @@ Linux • Networking • Security • AI
 ## 📫 Connect with me
 
 LinkedIn:
-linkedin.com/in/maksym-zhelezniakov-121032198
+linkedin.com/in/maksym-zhelezniakov
