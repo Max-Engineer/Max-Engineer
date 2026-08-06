@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Projects
 
 ### 🔐 [SecureVault API](https://github.com/Max-Engineer/SecureVaultProject)
 
