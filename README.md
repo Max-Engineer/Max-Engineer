@@ -80,10 +80,18 @@ Backend ticket management platform.
 ## 🏅 Certifications
 
 <p align="left">
-  [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA3C53?style=for-the-badge)](https://www.credly.com/badges/863b4d4d-1d82-441a-839d-3923627fec65/linked_in_profile)
-  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-EA3C53?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <a href="https://www.credly.com/badges/863b4d4d-1d82-441a-839d-3923627fec65/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA3C53?style=for-the-badge" alt="CompTIA Security+" />
+  </a>
+  <a href="https://www.credly.com/badges/8106a12b-9798-4739-869f-c6eeac45e81c/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/CompTIA-CySA%2B-EA3C53?style=for-the-badge" />
+  </a>
+  <a href="https://www.credly.com/badges/fdba5336-b903-4ee7-8e4c-fd7b980fd7f1/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/aacb762e-12b4-4ba5-a244-b1462d6cddbe/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>  
 </p>
 
 ---
