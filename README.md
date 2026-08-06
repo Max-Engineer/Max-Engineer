@@ -44,8 +44,9 @@ Features:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="SQL" />
+  
 </p>
 
 ### Backend
@@ -73,6 +74,15 @@ Features:
 
 ---
 
+## 🏅 Certifications
+
+- CompTIA Security+
+- CompTIA CySA+
+- Cisco CCNA
+- Microsoft Azure AZ-900
+
+---
+
 ## 🌱 Currently Learning
 
 - Spring Security
@@ -85,5 +95,4 @@ Features:
 
 ## 📫 Connect with me
 
-LinkedIn:
-linkedin.com/in/maksym-zhelezniakov
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksym%20Zhelezniakov-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maksym-zhelezniakov)
