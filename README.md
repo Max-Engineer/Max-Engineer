@@ -49,7 +49,6 @@ Features:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" alt="Spring Boot" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" alt="ASP.NET Core" />
-
 <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 
 ### Cloud & DevOps
@@ -63,7 +62,6 @@ Features:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="45" alt="Networking" />
-
 <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=shield&logoColor=white" alt="Security" />
 <img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
 
