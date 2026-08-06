@@ -1,62 +1,63 @@
 # Hi, I'm Max 👋
 
-Software Development student at ATU Galway with a background in networking, cybersecurity, and cloud technologies.
+**BSc Computing (Software Development) student at Atlantic Technological University (ATU Galway)** with a strong foundation in networking, cybersecurity, and cloud technologies. Passionate about building secure, scalable backend applications and continuously expanding my skills in cloud computing and AI.
 
-Currently focused on:
+## 🎯 Current Focus
 
 ☕ Backend Engineering  
 ☁️ Cloud Technologies  
 🤖 AI-enabled Systems  
-🔒 Security-aware Software Development  
+🔒 Secure Software Development
 
 ---
 
 ## 🚀 Current Projects
 
-### SecureVault API
-Secure REST API built with Java and Spring Boot
+### 🔐 [SecureVault API](https://github.com/Max-Engineer/SecureVaultProject)
 
-Features:
+Secure REST API built with **Java** and **Spring Boot**.
+
+**Features**
 - JWT Authentication
-- Role-based access control
+- Role-Based Access Control
 - Spring Security
 - PostgreSQL
-- Docker support
+- Docker Support
 
 ---
 
-### IT Helpdesk Ticket System
+### 🎫 [IT Helpdesk Ticket System](https://github.com/Max-Engineer/HelpDeskAPI)
 
-Backend ticket management platform
+Backend ticket management platform.
 
-Features:
-- User and role management
-- Ticket lifecycle management
-- REST API architecture
-- Database integration
+**Features**
+- User & Role Management
+- Ticket Lifecycle Management
+- REST API Architecture
+- Database Integration
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="SQL" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="SQL" />
 </p>
 
 ### Backend
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" alt=".NET" />
 </p>
 
 ### Cloud & DevOps
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" alt="Azure" />
@@ -65,20 +66,23 @@ Features:
 </p>
 
 ### Other
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="45" alt="Networking" />
-  <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=shield&logoColor=white" alt="Security" />
-  <img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
 </p>
+
+**Also familiar with:** REST APIs • Networking • Security • AI
 
 ---
 
 ## 🏅 Certifications
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/comptia/comptia-original.svg" width="25" alt="CompTIA" /> Security+  CySA+
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="25" alt="Cisco" /> CCNA
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="25" alt="Azure" /> Microsoft AZ-900
+<p align="left">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA3C53?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-EA3C53?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
 
 ---
 
@@ -86,12 +90,31 @@ Features:
 
 - Spring Security
 - Docker & Containerization
-- AWS deployment
-- C# / .NET ecosystem
-- AI integration into backend systems
+- AWS Deployment
+- C# / ASP.NET Core
+- AI Integration into Backend Systems
 
 ---
 
-## 📫 Connect with me
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksym%20Zhelezniakov-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maksym-zhelezniakov)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Max-Engineer&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Engineer&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/maksym-zhelezniakov">
+    <img src="https://img.shields.io/badge/LinkedIn-Maksym%20Zhelezniakov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Max-Engineer&style=for-the-badge" alt="Profile Views"/>
+</p>
