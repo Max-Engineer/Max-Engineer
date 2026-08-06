@@ -76,10 +76,9 @@ Features:
 
 ## 🏅 Certifications
 
-- CompTIA Security+
-- CompTIA CySA+
-- Cisco CCNA
-- Microsoft Azure AZ-900
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/comptia/comptia-original.svg" width="25" alt="CompTIA" /> Security+  CySA+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="25" alt="Cisco" /> CCNA
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="25" alt="Azure" /> Microsoft AZ-900
 
 ---
 
