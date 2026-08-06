@@ -46,6 +46,7 @@ Backend ticket management platform.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="SQL" />
 </p>
 
@@ -54,6 +55,7 @@ Backend ticket management platform.
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" alt=".NET" />
+  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 </p>
 
 ### Cloud & DevOps
@@ -69,16 +71,16 @@ Backend ticket management platform.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux" />
+  <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=shield&logoColor=white" alt="Security" />
+  <img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
 </p>
-
-**Also familiar with:** REST APIs • Networking • Security • AI
 
 ---
 
 ## 🏅 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA3C53?style=for-the-badge" />
+  [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA3C53?style=for-the-badge)](https://www.credly.com/badges/863b4d4d-1d82-441a-839d-3923627fec65/linked_in_profile)
   <img src="https://img.shields.io/badge/CompTIA-CySA%2B-EA3C53?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -93,15 +95,6 @@ Backend ticket management platform.
 - AWS Deployment
 - C# / ASP.NET Core
 - AI Integration into Backend Systems
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Max-Engineer&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Engineer&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
