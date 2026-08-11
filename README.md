@@ -106,6 +106,7 @@ Backend ticket management platform.
 - Docker & Containerization
 - AWS Deployment
 - C# / ASP.NET Core
+- Python
 - AI Integration into Backend Systems
 
 ---
