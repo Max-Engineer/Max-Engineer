@@ -79,7 +79,9 @@ Backend ticket management platform.
 ### Other
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/macos/macos-original.svg" width="45" alt="MacOS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original.svg" width="45" alt="Windows" />
   <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=shield&logoColor=white" alt="Security" />
   <img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
 </p>
