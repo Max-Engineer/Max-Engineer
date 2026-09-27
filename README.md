@@ -113,7 +113,7 @@ Backend ticket management platform.
 - Spring Security
 - Docker & Containerization
 - AWS Deployment
-- C# / .NET MAUI
+- C# / .NET MAUI / XAML
 - C (Procedural Programming)
 - Python
 - AI Integration into Backend Systems
