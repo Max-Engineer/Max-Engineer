@@ -131,5 +131,5 @@ Backend ticket management platform.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Max-Engineer&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Max-Engineer&style=for-the-badge&v=2" alt="Profile Views"/>
 </p>
