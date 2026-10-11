@@ -131,5 +131,5 @@ Backend ticket management platform.
 ---
 
 <p align="center">
-  <img src="https://hits.sh/github.com/Max-Engineer.svg?style=for-the-badge" alt="Profile Views"/>
+  <img src="https://hits.sh/github.com/Max-Engineer.svg?style=for-the-badge&label=Profile%20Views&color=007ec6&labelColor=555&extraCount=186" alt="Profile Views"/>
 </p>
