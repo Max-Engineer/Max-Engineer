@@ -4,7 +4,7 @@
 
 # Hi, I'm Max 👋
 
-**BSc Computing (Software Development) student at Atlantic Technological University (ATU Galway)** with a strong foundation in networking, cybersecurity, and cloud technologies. Passionate about building secure, scalable backend applications and continuously expanding my skills in cloud computing and AI.
+**BSc Computing (Software Development) 2nd Year student at Atlantic Technological University (ATU Galway)** with a strong foundation in networking, cybersecurity, and cloud technologies. Passionate about building secure, scalable backend applications and continuously expanding my skills in cloud computing and AI.
 
 ## 🎯 Current Focus
 
